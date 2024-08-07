@@ -1,6 +1,7 @@
 # themiddleman
 Middleman, Columbia University					                                                    
 08/2020 – 10/2020
+
 Course: COMS 4170 User Interface Design | Programming Language: HTML, CSS, Javascript
 
 The problem of my users is that they spend all of their time on-campus and have little time or means of transport to leave campus to run errands. As a result, the users default to online shopping because they offer quick, easy, and simple service. The users are ethically conflicted because they do not want to support overpowered oligopolies run by greedy multi billionaires who exploit and abuse their employees. However, the users need their items fast, cheap and delivered so they shop at businesses, such as Amazon or Walmart, anyway because college students have little time and little income. This problem has grown even further as a result of COVID-19 and college students wanting to be safe on campus rather than at a public establishment.
